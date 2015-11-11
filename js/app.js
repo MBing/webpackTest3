@@ -1,4 +1,5 @@
-require("./login");
+//require("./login");
+import {} from "./login";
 
 document.write("Welcome to the world of house!");
 
